@@ -7,9 +7,17 @@ h2{
     color: aqua;
     font-style: italic;
 }
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ff004f;
+    margin-left: 100px;
+}
 .header h1 span{
     color: red;
 }
 .header h2 span{
     color: red;
+}
+.header ul li {
+color: green;
 }
